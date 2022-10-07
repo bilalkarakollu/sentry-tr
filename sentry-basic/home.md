@@ -1,7 +1,7 @@
 <h1 align="center">Sentry Basic</h1>
 
 
-<a href="/sentry-basic/key-terms.md">Key Terms</a>
+<a href="/sentry-tr/sentry-basic/key-terms.md">Key Terms</a>
 <p>
 Sentry'nin temel kavramları ve özellikleri hakkında bilgi edinin.
 </p>
