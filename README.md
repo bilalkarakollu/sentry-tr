@@ -14,8 +14,8 @@ Hatalı yerlerin düzeltilmesi için pull request gönderebilirsiniz.
 
 <h2>Hızlı Başlangıç</h2>
 
-- <a href="/sentry-tr/product.md">Product</a>
-- <a href="/sentry-tr/sentry-basic/home.md">Sentry Basics</a>
+- <a href="/sentry-tr/product">Product</a>
+- <a href="/sentry-tr/sentry-basic/home">Sentry Basics</a>
 - <a href="/sentry-tr/issues">Issues</a>
 - <a href="">Projects</a>
 - <a href="">Alerts</a>
