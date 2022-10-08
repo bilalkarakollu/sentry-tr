@@ -1,23 +1,19 @@
 <h1 align="center">Sentry Basic</h1>
 
 
-<a href="/sentry-tr/sentry-basic/key-terms">Key Terms</a>
+<a href="/sentry-tr/sentry-basic/key-terms.md">Key Terms</a>
 <p>
 Sentry'nin temel kavramları ve özellikleri hakkında bilgi edinin.
 </p>
-<a href="">Data Source Name (DSN)</a>
+<a href="/sentry-tr/sentry-basic/dsn-explainer.md">Data Source Name (DSN)</a>
 <p>
 Sentry'nin Veri Kaynağı Adı yapısı ve kullanımı hakkında bilgi edinin.
 </p>
-<a href="">Environments</a>
+<a href="/sentry-tr/sentry-basic/environments.md">Environments</a>
 <p>
 Sentry.io'daki Sorun Ayrıntıları sayfasında ortamların sorunları, yayınları ve kullanıcı geri bildirimlerini daha iyi filtrelemenize nasıl yardımcı olabileceği hakkında daha fazla bilgi edinin.
 </p>
-<a href="">Sampling</a>
-<p>
-Sentry'ye gönderdiğiniz işlem olaylarını örneklemenin farklı yolları hakkında daha fazla bilgi edinin.
-</p>
-<a href="">Frontend Tutorial</a>
+<a href="/sentry-tr/sentry-basic/integrate-frontend/create-new-project.md">Frontend Tutorial</a>
 <p>
 Bu adım adım öğretici, bir ön uç uygulamasındaki hataları izlemek için Sentry hesabınızı kurma ve yapılandırma akışında size yol gösterir. Bu öğreticiyi referans olarak takip edebilir ve ilgili değişiklikleri doğrudan kaynak kodunuza uygulayabilirsiniz.
 </p>

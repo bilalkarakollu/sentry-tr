@@ -68,3 +68,8 @@
   <p>
   Uyarılar, belirli uyarı kuralı koşulları karşılandığında size bildirimler göndererek kodunuzla ilgili sorunları gerçek zamanlı olarak size bildirir. Özelleştirilebilir eşikler ve entegrasyonlarla kullanılabilen çeşitli uyarı türleri vardır.
   </p>
+
+<br>
+<br>
+<br>
+<div style="display: flex; align-items: center; justify-content: space-between"><a href="/sentry-tr/"><strong>Anasayfa</strong></a><a href="/sentry-tr/sentry-basic/dsn-explainer.md"><strong>Sonraki Ders -></strong></a></div>
