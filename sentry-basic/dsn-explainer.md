@@ -38,3 +38,6 @@ Uygulamanız istemci cihazlara gönderiliyorsa, mümkünse DSN'yi dinamik olarak
 <br>
 <br>
 <div style="display: flex; align-items: center; justify-content: space-between"><a href="/sentry-tr/"><strong>Anasayfa</strong></a><a href="/sentry-tr/sentry-basic/environments"><strong>Sonraki Ders -></strong></a></div>
+<br>
+<br>
+<br>
