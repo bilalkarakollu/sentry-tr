@@ -36,4 +36,7 @@ Bir sorunda birden çok ortamdan olay varsa, bu ortamlardan herhangi birini seç
 <br>
 <br>
 <br>
-<div style="display: flex; align-items: center; justify-content: space-between"><a href="/sentry-tr/"><strong>Anasayfa</strong></a><a href="/sentry-tr/sentry-basic/integrate-frontend.md"><strong>Sonraki Ders -></strong></a></div>
+<div style="display: flex; align-items: center; justify-content: space-between"><a href="/sentry-tr/"><strong>Anasayfa</strong></a><a href="/sentry-tr/sentry-basic/integrate-frontend"><strong>Sonraki Ders -></strong></a></div>
+<br>
+<br>
+<br>

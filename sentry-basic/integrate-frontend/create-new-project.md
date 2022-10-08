@@ -84,4 +84,10 @@
 <p>5- Yeni kuralı oluşturmak için "Kuralı Kaydet"e tıklayın.</p>
 
 
-<a href=""><h4>Sonraki</h4></a>
+<br>
+<br>
+<br>
+<div style="display: flex; align-items: center; justify-content: space-between"><a href="/sentry-tr/"><strong>Anasayfa</strong></a><a href="/sentry-tr/sentry-basic/integrate-frontend/initialize-sentry-sdk"><strong>Sonraki Ders -></strong></a></div>
+<br>
+<br>
+<br>

@@ -72,4 +72,8 @@
 <br>
 <br>
 <br>
-<div style="display: flex; align-items: center; justify-content: space-between"><a href="/sentry-tr/"><strong>Anasayfa</strong></a><a href="/sentry-tr/sentry-basic/dsn-explainer.md"><strong>Sonraki Ders -></strong></a></div>
+<div style="display: flex; align-items: center; justify-content: space-between"><a href="/sentry-tr/"><strong>Anasayfa</strong></a><a href="/sentry-tr/sentry-basic/dsn-explainer"><strong>Sonraki Ders -></strong></a></div>
+
+<br>
+<br>
+<br>
