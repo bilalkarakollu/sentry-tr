@@ -58,23 +58,23 @@ dfn {
 }
 h1 {
   margin: 0.67em 0;
-  font-size: 1.9rem;
+  font-size: 1.9rem!important;
 }
 
 h2 {
-    font-size: 1.7rem;
+    font-size: 1.7rem!important;
 }
 
 h3 {
-    font-size: 1.5rem;
+    font-size: 1.5rem!important;
 }
 
 h4 {
-    font-size: 1.4rem;
+    font-size: 1.4rem!important;
 }
 
 h5 {
-    font-size: 1rem;
+    font-size: 1rem!important;
 }
 mark {
   background: #ff0;
@@ -550,6 +550,7 @@ a:hover {
 }
 .main-content {
   word-wrap: break-word;
+  font-size: 0.9rem!important;
 }
 .main-content :first-child {
   margin-top: 0;
@@ -559,19 +560,19 @@ a:hover {
     max-width: 64rem;
     padding: 2rem 6rem;
     margin: 0 auto;
-    font-size: 0.9rem;
+    font-size: 0.9rem!important;
   }
 }
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .main-content {
     padding: 2rem 4rem;
-    font-size: 0.9rem;
+    font-size: 0.9rem!important;
   }
 }
 @media screen and (max-width: 42em) {
   .main-content {
     padding: 2rem 1rem;
-    font-size: 0.8rem;
+    font-size: 0.8rem!important;
   }
 }
 .main-content kbd {
