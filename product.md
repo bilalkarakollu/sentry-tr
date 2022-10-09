@@ -1,13 +1,13 @@
 <h1 align="center">Product</h1>
 
 
-<a href="/sentry-tr/sentry-basic/home">Sentry Basics</a>
+<h4><a href="/sentry-tr/sentry-basic/home">Sentry Basics</a></h4>
 <p>Sorunları hızlı bir şekilde çözmenize yardımcı olmak için sentry.io'da bulunan araçları kullanma kılavuzumuz olan Sentry Basics'e hoş geldiniz.
 </p>
-<a href="/sentry-tr/issues">Issues</a>
+<h4><a href="/sentry-tr/issues/home">Issues</a></h4>
 <p>Sorunlar sayfası ve sorunları etkin bir şekilde önceliklendirmek için nasıl kullanabileceğiniz hakkında daha fazla bilgi edinin.
 </p>
-<a href="">Projects</a>
+<h4><a href="/sentry-tr/projects/home">Projects</a></h4>
 <p>Üyesi olduğunuz ekiplerle ilişkili tüm projeleri görüntüleyin ve ardından ayrıntılarına hızla dalın.
 </p>
 <a href="">Alerts</a>
