@@ -36,4 +36,10 @@ Hatalı yerlerin düzeltilmesi için pull request gönderebilirsiniz.
 - <a href="">Stats</a>
 - <a href="">User Feedback</a>
 
+<br>
+<h4><a target="_blank" href="https://www.youtube.com/watch?v=cEREhkeUkM0&t=1s">Sentry 101 Türkçe videosunu izle</a></h4>
+
+<br>
+<br>
+
 

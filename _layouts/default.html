@@ -1,39 +1,75 @@
 <!DOCTYPE html>
 <html lang="tr">
   <head>
-    <meta charset="UTF-8">
+    <meta charset="UTF-8" />
     {% seo %}
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#9A0189">
-    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#9A0189" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Open+Sans:400,700"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <link
+      rel="stylesheet"
+      href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}"
+    />
     <!-- Google tag (gtag.js) -->
-          <script async src="https://www.googletagmanager.com/gtag/js?id=G-SFWNP5V9GS"></script>
-          <script>
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-SFWNP5V9GS"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
 
-          gtag('config', 'G-SFWNP5V9GS');
-          </script>
-</head>
+      gtag("config", "G-SFWNP5V9GS");
+    </script>
+  </head>
   <body>
     <section class="page-header">
-      <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+      <h1 class="project-name">
+        {{ site.title | default: site.github.repository_name }}
+      </h1>
+      <h2 class="project-tagline">
+        {{ site.description | default: site.github.project_tagline }}
+      </h2>
       {% if site.github.is_project_page %}
-        <a href="https://bilalkarakollu.github.io/sentry-tr/" class="btn">Anasayfa</a>
-        <a href="{{ site.github.repository_url }}" class="btn">GitHub'ta İnceleyin</a>
+      <a href="https://bilalkarakollu.github.io/sentry-tr/" class="btn"
+        >Anasayfa</a
+      >
+      <a href="{{ site.github.repository_url }}" class="btn"
+        >GitHub'ta İnceleyin</a
+      >
       {% endif %}
     </section>
 
     <section class="main-content">
       {{ content }}
-
       <footer class="site-footer">
-        <p>
-          <a href="https://bilalkarakollu.com" target="_blank">bilalkarakollu.com</a>
-        </p>
+        <div>
+          <a href="https://bilalkarakollu.com" target="_blank"
+            >bilalkarakollu.com</a
+          >
+        </div>
+        <div>
+          <a href="https://www.linkedin.com/in/bilalkarakollu/" target="_blank"
+            >Linkedin</a
+          >
+        </div>
+        <div>
+          <a
+            href="https://www.youtube.com/channel/UCbrNk0s89ZcBWo2xk4mrC-A"
+            target="_blank"
+            >Youtobe</a
+          >
+        </div>
+        <div>
+          <a href="https://github.com/bilalkarakollu" target="_blank">Github</a>
+        </div>
       </footer>
     </section>
   </body>
