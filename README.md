@@ -14,10 +14,10 @@ Hatalı yerlerin düzeltilmesi için pull request gönderebilirsiniz.
 
 <h2>Hızlı Başlangıç</h2>
 
-- <a href="/sentry-tr/product">Product</a>
-- <a href="/sentry-tr/sentry-basic/home">Sentry Basics</a>
-- <a href="/sentry-tr/issues/home">Issues</a>
-- <a href="">Projects</a>
+- <a href="https://bilalkarakollu.github.io/sentry-tr/product">Product</a>
+- <a href="https://bilalkarakollu.github.io/sentry-tr/sentry-basic/home">Sentry Basics</a>
+- <a href="https://bilalkarakollu.github.io/sentry-tr/issues/home">Issues</a>
+- <a href="https://bilalkarakollu.github.io/sentry-tr/projects/home">Projects</a>
 - <a href="">Alerts</a>
 - <a href="">Performance Monitoring</a>
 - <a href="">Profiling</a>
