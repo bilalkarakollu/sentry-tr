@@ -724,6 +724,11 @@ a:hover {
   padding-top: 2rem;
   margin-top: 2rem;
   border-top: solid 1px #eff0f1;
+  display: flex;
+  flex-wrap: wrap;
+}
+.site-footer div{
+  margin: 5px;
 }
 @media screen and (min-width: 64em) {
   .site-footer {
