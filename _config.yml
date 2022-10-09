@@ -1,5 +1,5 @@
 title: Sentry.io - Türkçe Doküman
-theme: jekyll-theme-minima
+theme: jekyll-theme-cayman
 author:
   name: bilalkarakollu
   email: karakollubilal@gmail.com
@@ -10,7 +10,3 @@ social_links:
     instagram:  bilalkarakollu
     medium:  bilalkarakollu
     linkedin:  bilalkarakollu
-
-plugins:
- - jekyll-feed
- - jekyll-seo-tag
