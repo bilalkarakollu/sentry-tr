@@ -14,10 +14,10 @@ Hatalı yerlerin düzeltilmesi için pull request gönderebilirsiniz.
 
 <h2>En önemli dersler</h2>
 
-- <h5><a target="_blank" href="https://bilalkarakollu.github.io/sentry-tr/performance/metrics">Metrics (Sentry Metrikleri)</a></h5>
-- <h5><a target="_blank" href="https://bilalkarakollu.github.io/sentry-tr/sentry-basic/integrate-frontend/create-new-project">Create Project (Yeni Proje oluşturun ve Sentry'i entregre edin)</a></h5>
-- <h5><a target="_blank" href="https://bilalkarakollu.github.io/sentry-tr/issues/issue-details/home">Issues Detail (Hata Okuyun)</a></h5>
-- <h5><a target="_blank" href="https://bilalkarakollu.github.io/sentry-tr/alerts/create-alerts">Alarm Kurun (Create Alerts)</a></h5>
+- <h5><a href="https://bilalkarakollu.github.io/sentry-tr/performance/metrics">Metrics (Sentry Metrikleri)</a></h5>
+- <h5><a href="https://bilalkarakollu.github.io/sentry-tr/sentry-basic/integrate-frontend/create-new-project">Create Project (Yeni Proje oluşturun ve Sentry'i entregre edin)</a></h5>
+- <h5><a href="https://bilalkarakollu.github.io/sentry-tr/issues/issue-details/home">Issues Detail (Hata Okuyun)</a></h5>
+- <h5><a href="https://bilalkarakollu.github.io/sentry-tr/alerts/create-alerts">Alarm Kurun (Create Alerts)</a></h5>
 
 <br>
 <br>
